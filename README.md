@@ -1,5 +1,5 @@
 The project was commissioned by the Customer Insights Manager, 
-VayuAir (a ficticious airline). Their objective is to 
+VayuAir Australia (a ficticious airline). Their objective is to 
 extract insights from the data and predict customer satisfaction while 
 identifying the ways to boost customer engagement and retention. We have 
 identified it as a classification problem and used the supervised machine 
