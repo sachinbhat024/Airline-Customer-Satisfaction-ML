@@ -1,7 +1,7 @@
 The project was commissioned by the Customer Insights Manager, 
 VayuAir Australia (a fictitious airline). Their objective is to 
 extract insights from the data and predict customer satisfaction while 
-identifying the ways to boost customer engagement and retention. We have 
+identifying the ways to boost customer engagement and retention. I rightly 
 identified it as a classification problem and used the supervised machine 
 learning’s logistic regression approach through the LogisticRegression 
 functionality from the scikit-learn library to solve this. Factors such as flight distance, online check
