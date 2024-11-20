@@ -6,7 +6,9 @@ identifying the ways to boost customer engagement and retention.
 I rightly 
 identified it as a classification problem and used the supervised machine 
 learning’s logistic regression approach through the LogisticRegression 
-functionality from the scikit-learn library to solve this. Factors such as flight distance, online check
+functionality from the scikit-learn library to solve this. 
+
+Factors such as flight distance, online check
 in quality, airport check-in process, baggage handling quality, cabin-crew 
 service, seat comfort, inflight entertainment, inflight wifi, leg room, and 
 cleanliness positively influence satisfaction. While maintaining and improving 
