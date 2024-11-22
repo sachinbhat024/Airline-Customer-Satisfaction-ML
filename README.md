@@ -1,3 +1,4 @@
+# Customer Satisfaction Prediction: Enhancing Engagement & Retention ✈️📊💺
 The project was commissioned by the Customer Insights Manager, 
 VayuAir Australia (a fictitious airline). Their objective is to 
 extract insights from the data and predict customer satisfaction while 
